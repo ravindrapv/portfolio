@@ -9,7 +9,7 @@ function Hero() {
   return (
     <section className="container flex justify_center hero column">
       <figure className="flex_48">
-        <img src="/images/profession3.png" alt="" />
+        <img src="/images/profession4.png" alt="" />
       </figure>
 
       <div className="hero_data flex_48 flex justify_center items_center">

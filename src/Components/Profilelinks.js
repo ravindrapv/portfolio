@@ -16,13 +16,13 @@ function Profilelinks() {
             </li>
 
             <li>
-              <a href="https://www.linkedin.com/in/vasam-narasimhulu-8085901b3/">
+              <a href="https://www.linkedin.com/in/venkata-ravindra-pv-06aa62217/">
               <FaLinkedin/>
               </a>
             </li>
 
             <li>
-              <a href="https://twitter.com/NarasimhuluV7">
+              <a href="https://twitter.com/ravindrapv5">
               <FaTwitter />
               </a>
             </li>
