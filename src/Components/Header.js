@@ -3,7 +3,7 @@ function Header() {
   return (
     <>
       <header className="container flex justify_between items_center">
-        <h2>Portfolio</h2>
+        <h2>VenkataRavindra</h2>
         <nav className="flex_25 ">
           <ul className="flex justify_between">
             <li>
