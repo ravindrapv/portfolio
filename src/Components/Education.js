@@ -88,10 +88,7 @@ function Education() {
 
                 <Button className="em_re_btn" variant="outlined" size="small">
                   <CloudDownloadIcon />
-                  <a
-                    href="public/Document/Venkat_MERN-Developer (9) (1).pdf"
-                    download
-                  >
+                  <a href="/Document/Venkat_MERN.pdf" download>
                     Resume
                   </a>
                 </Button>
